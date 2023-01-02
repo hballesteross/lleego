@@ -32,7 +32,7 @@
 
     <html>
         <body>
-            <form action='request.php' method='POST'>
+            <form action='index.php' method='POST'>
                 <input type='hidden' name='sent' value='1' />
                 <input type='submit' value='Enviar petición'>
             </form>

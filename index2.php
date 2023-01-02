@@ -6,7 +6,7 @@
 ?>
     <html>
         <body>
-            <form action='request.php' method='POST'>
+            <form action='index2.php' method='POST'>
                 <input type='hidden' name='sent' value='1' />
                 <input type='submit' value='Enviar peticion'>                
             </form>
